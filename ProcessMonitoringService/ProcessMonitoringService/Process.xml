@@ -1,0 +1,9 @@
+<ProcessMonitorList>
+<ProcessMonitor>
+<ProcessName>Peripheral Windows Service</ProcessName>
+<NotificationList>ksakala@opteamix.com</NotificationList>
+<TimeInterval>1</TimeInterval>
+<NotificationSubject>AAM service has been stopped</NotificationSubject>
+<NotificationMail>ksakala@opteamix.com</NotificationMail>
+</ProcessMonitor>
+</ProcessMonitorList>

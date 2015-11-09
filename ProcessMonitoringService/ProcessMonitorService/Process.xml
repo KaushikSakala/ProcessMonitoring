@@ -1,0 +1,9 @@
+<ProcessMonitorList>
+<ProcessMonitor>
+<ProcessName></ProcessName>
+<NotificationList>ksakala@opteamix.com</NotificationList>
+<TimeInterval>1000</TimeInterval>
+<NotificationSubject>Western Union is down</NotificationSubject>
+<NotificationMail>ksakala@opteamix.com</NotificationMail>
+</ProcessMonitor>
+</ProcessMonitorList>
